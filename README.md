@@ -27,7 +27,7 @@ python3 demo.py  --config config/vox-adv-256.yaml --driving_video driving_video/
 
 ## Acknowledgment
 
-![first-order-model](https://github.com/AliaksandrSiarohin/first-order-model)
+[first-order-model](https://github.com/AliaksandrSiarohin/first-order-model)
 
 
 
