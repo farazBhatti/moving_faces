@@ -6,8 +6,8 @@ This repository uses code from [first order model](https://github.com/Aliaksandr
 
 
 ## Inference
-Download pretrained model [here.](https://drive.google.com/drive/folders/1PyQJmkdCsAkOYwUyaj_l-l0as-iLDgeH). Extract model and put it in "checkpoints"
-dir.
+Download pretrained model [here.](https://drive.google.com/drive/folders/1PyQJmkdCsAkOYwUyaj_l-l0as-iLDgeH). 
+Extract model and put it in "checkpoints" dir.
 
 
 ```
