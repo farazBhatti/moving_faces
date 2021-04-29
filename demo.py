@@ -187,7 +187,7 @@ if __name__ == "__main__":
     height, width, layers = source_image.shape
 
     # Define the codec and create VideoWriter object
-    video_name = 'mygeneratedvideo.avi'
+    video_name = 'result/generatedVideo.avi'
 
     fourcc = cv2.VideoWriter_fourcc(*'XVID')
     video = cv2.VideoWriter(video_name, fourcc, fps, (width, height))

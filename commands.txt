@@ -1,2 +1,2 @@
-python3 demo.py  --config config/vox-adv-256.yaml --driving_video path/to/driving --source_image source_image --checkpoint checkpoint/vox-adv-cpk.pth --relative --adapt_scale
+python3 demo.py  --config config/vox-adv-256.yaml --driving_video driving_video/short.mp4 --source_image source_image/friends.jpeg --checkpoint checkpoints/vox-adv-cpk.pth.tar --relative --adapt_scale
 
